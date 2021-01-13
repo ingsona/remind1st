@@ -1,0 +1,24 @@
+{
+  "name": "remind1st",
+  "version": "1.0.0",
+  "description": "program remind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect -e js,html,hbs,sql,css,scss app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingsona/remind1st.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingsona/remind1st/issues"
+  },
+  "homepage": "https://github.com/ingsona/remind1st#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
