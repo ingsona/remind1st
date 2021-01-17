@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ingsona/remind1st#readme",
   "devDependencies": {
     "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.28"
   }
 }
